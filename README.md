@@ -1,6 +1,6 @@
 ## redux-counter
 
-Some of the dependencies used are;
+Dependencies used are;
 - react-redux
 - redux
 - reduxjs-toolit 
